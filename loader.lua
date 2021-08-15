@@ -1,4 +1,4 @@
-if game.Placid == 1962086868 then
+if game.Placeid == 1962086868 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/fortniteego/kom-hub/main/TOH.lua", true))()
 elseif game.PlaceId == 3956818381 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/fortniteego/kom-hub/main/NinjaLegends.lua", true))()
